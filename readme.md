@@ -1,0 +1,1 @@
+This project is going to graph the number of COVID-19 cases using webscraping to get the numbers. It is an effective use of both webscraping and the graphing library.
